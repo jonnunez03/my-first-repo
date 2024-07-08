@@ -1,0 +1,6 @@
+#local evn files
+.env*
+
+#misc
+
+.vscode
