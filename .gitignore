@@ -1,0 +1,10 @@
+#local evn files
+.env*
+
+# files
+*.css
+*.js
+
+#misc
+
+.vscode
